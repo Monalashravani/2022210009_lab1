@@ -1,0 +1,13 @@
+4 a)mkdir 2022210009
+b) cd 2022210009
+c) pwd
+d) ecdo "hello,this is our first lab"
+e) touch names.txt
+   nano names.txt
+f) cat names.txt
+g) touch lab.txt
+   nano lab.txt
+   cp names.txt lab.txt
+h) rm lab.txt
+i) tail -3 names.txt
+j) wc -l names.txt
