@@ -5,7 +5,7 @@ typedef struct MatchDetails {
     int runsScored;
     int ballsPlayed;
 } match;
-
+hello world
 typedef struct PlayerDetails {
     char name[20];
     match matchDetails[10];
@@ -15,7 +15,7 @@ typedef struct TeamDetails {
     char name[20];
     player players[11];
 } team;
-
+byeeeeeeee
 void fillDetails(team *t, int playerId, char name[], int r, int b, int matchNum) {
     strcpy(t->players[playerId].name, name);
     strcpy(t->players[1].name,"Rohit Sharma");
